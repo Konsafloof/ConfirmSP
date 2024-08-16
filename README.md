@@ -1,5 +1,6 @@
 # Auto Confirm Static Popups
 ## About
+Please report any additonal errors with WoW's 11.0.2 update.
 As a fan of the functionality this addon provides, I'm updating it to support Shadowlands!
 
 ## Credits
